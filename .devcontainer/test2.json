@@ -1,0 +1,12 @@
+{
+   
+    "name":"This is test 2",
+    "customizations": {
+        "vscode": {
+            "extenions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+  }  
+  
